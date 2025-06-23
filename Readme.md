@@ -23,20 +23,20 @@ A place to experiment, learn, and grow
 A foundation for future, more advanced projects
 
 # What I'm Learning
-Git & Github basics
-Writing clean and readable code 
-Structuring a project repository
-Documenting projects effectively
+1. Git & Github basics
+2. Writing clean and readable code 
+3. Structuring a project repository
+4. Documenting projects effectively
 
-#Tools & Technologies
-Programming Language : [ HTML, C, CSS]
-Git & Github
+# Tools & Technologies
+1. Programming Language : [ HTML, C, CSS]
+2. Git & Github
 
 # Future Goals
-Build real-world projects
-Contribute to open-source
-Learn web dovelopment, software development, or data science
-Keep improving every day!
+1. Build real-world projects
+2. Contribute to open-source
+3. Learn web dovelopment, software development, or data science
+4. Keep improving every day!
 
 # Thanks for Visiting!'
 Fell free to explore, suggest improvements, or just say hi. I'm always open to learning and 
