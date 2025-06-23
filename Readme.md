@@ -1,11 +1,11 @@
 # My First GitHub Project
-Hi there! I'm Utkarsh Raj an 18-year-old recent 12th graduate with science stream and a strong 
-foundation in mathematics. I'm passionate about exploring the world of technology and its endless
+Hi there! I'm Utkarsh Raj an 18-year-old recent 12th graduate with science stream.
+I'm passionate about exploring the world of technology and its endless
 possibilities.
 
-My skills estent beyond academics. I possess a keen eye for derail and efficency, demontrated
+My skills estend beyond academics. I possess a keen eye for detail and efficency, demontrated
 by my typing speed of 45 WPM with 99% accuracy. I'm also actively developing my creative side 
-throung video and content creation, creating engaging short videos for my YouTube channel.
+throungh video and content creation, creating engaging short videos for my YouTube channel with 19k+ views on one of my videos.
 Futhermore, I'm proficient in Microsoft Excel, Word, Powerpoint.
 
 The world of coding truly fascinates me. I've embarked on my coding journey by learning HTML and
@@ -20,7 +20,7 @@ Let's connect and explore the potential of technology together!
 This project is a simple yet meaningful step in my learning path. It represents:
 My first hands-on experience with Git and Github
 A place to experiment, learn, and grow
-A foundation for future, more advanced projects
+A foundation for future & more advanced projects
 
 # What I'm Learning
 1. Git & Github basics
@@ -29,7 +29,7 @@ A foundation for future, more advanced projects
 4. Documenting projects effectively
 
 # Tools & Technologies
-1. Programming Language : [ HTML, C, CSS]
+1. Programming Language : [ HTML, C ]
 2. Git & Github
 
 # Future Goals
